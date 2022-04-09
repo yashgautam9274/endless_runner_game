@@ -11,6 +11,6 @@
 Endless Runner Game is game in which a character is continuously moving forward and controlled by a single button, the function of button is to convey a signal to the arduino, once the arduino received a signal it jumps the character according to the programmed.
 
 # Circiut Diagram
-https://github.com/yashgautam9274/endless_runner_game/blob/main/circuit.jpg
+(https://github.com/yashgautam9274/endless_runner_game/blob/main/circuit.jpg)
 
 

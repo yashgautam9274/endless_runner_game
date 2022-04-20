@@ -1,8 +1,3 @@
-// Hello friends Welcome to "Techno-E-Solution"
-
-// Here is the code for Arduino Run Game........
-
-
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h>
 
@@ -317,4 +312,3 @@ void loop(){
   delay(100);
 }
 
-// Thank  you...................................
